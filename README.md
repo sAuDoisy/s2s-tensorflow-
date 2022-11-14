@@ -1,2 +1,2 @@
-# s2s-tensorflow-
+# s2s-tensorflow
 seal2simplify with tensorflow
